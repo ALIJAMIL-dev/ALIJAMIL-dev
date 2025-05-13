@@ -46,3 +46,8 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijamil-dev&layout=compact&theme=default" alt="Ali's Top Languages" />
 </p>
+
+### 📊 Language Proficiency
+
+![Language Proficiency Chart](language_proficiency_donut_chart.png)
+
