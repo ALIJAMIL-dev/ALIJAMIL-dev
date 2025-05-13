@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALIJAMIL-dev&show_icons=true&theme=default&hide=contribs&count_private=true" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alijamil-dev&show_icons=true&theme=default&hide=contribs&count_private=true" alt="Ali's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIJAMIL-dev&layout=compact&theme=default" alt="Ali's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijamil-dev&layout=compact&theme=default" alt="Ali's Top Languages" />
 </p>
