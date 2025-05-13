@@ -39,15 +39,26 @@
 
 ---
 
-### 📊 GitHub Stats
+### Programming Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alijamil-dev&show_icons=true&theme=default&hide=contribs&count_private=true" alt="Ali's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alijamil-dev&layout=compact&theme=default" alt="Ali's Top Languages" />
-</p>
+I have experience working with a variety of programming languages:
 
-### 📊 Language Proficiency
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)  
+**Python**: My primary language for data analysis, machine learning, and web development.  
 
-![Language Proficiency Chart](language_proficiency_donut_chart.png)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/64/JavaScript-logo.png)  
+**JavaScript**: Used for building interactive web applications and visualizations with libraries like D3.js and Chart.js.
 
+![HTML](https://upload.wikimedia.org/wikipedia/commons/5/5f/HTML5_logo.svg)  
+**HTML**: Essential for structuring content on the web.  
+
+![CSS](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)  
+**CSS**: Used for styling and designing web pages, ensuring a responsive user interface.
+
+![C#](https://upload.wikimedia.org/wikipedia/commons/4/47/Csharp_Logo.png)  
+**C#**: Key in my cross-platform development projects with .NET.  
+
+![SQL](https://upload.wikimedia.org/wikipedia/commons/2/29/SQL_logo.svg)  
+**SQL**: Essential for working with databases and data management.
+
+I enjoy leveraging these languages to create dynamic, user-friendly, and impactful solutions.
