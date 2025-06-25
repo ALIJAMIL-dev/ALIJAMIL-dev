@@ -2,7 +2,7 @@
 <h3 align="center">A Python, C#, .NET, Deep Learner, AI Trainer, Java and Front-end/Backend Fullstack learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Learning+Python%2C+C%23%2C+AI+%26+Cybersecurity;Future+Full-Stack+Developer+in+the+making;WTF+The+ai+is+Now+TRAining+By+Front-end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
